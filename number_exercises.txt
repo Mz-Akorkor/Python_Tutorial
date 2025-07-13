@@ -1,0 +1,44 @@
+🔢 Basic Number Exercises
+Create a variable x with value 15 and y with value 4.
+
+Print their sum, difference, product, and quotient.
+
+Calculate the square of a number and print the result.
+
+Find the remainder when 27 is divided by 4.
+
+Convert the float 3.75 into an integer.
+
+Convert the integer 7 into a float.
+
+Round the number 12.6789 to 2 decimal places.
+
+Find the absolute value of -23.4.
+
+Use divmod() to return the quotient and remainder of 20 divided by 3.
+
+Multiply a float by an integer: 3.5 × 4.
+
+Use exponentiation to calculate 5 raised to the power of 3.
+
+
+
+💡 Real-World Applications
+
+Calculate the area of a circle with radius 5. Use πr².
+
+Convert a temperature of 100°C to Fahrenheit using the formula:
+F = (C × 9/5) + 32
+
+Calculate the monthly interest on a loan of GHS 2000 at an annual interest rate of 12%.
+
+You have $200 and want to split it evenly among 3 friends.
+
+How much does each get?
+
+What is the remainder?
+
+A car travels 120 km in 2.5 hours.
+
+What is its average speed?
+
