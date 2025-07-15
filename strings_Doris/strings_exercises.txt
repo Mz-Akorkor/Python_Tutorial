@@ -1,0 +1,49 @@
+✅ Section 1: String Basics
+Create a string variable called name and assign your name to it. Print it.
+
+Create a string that contains a sentence. Print the sentence and its length.
+
+Concatenate the strings "Hello, " and "World!". Print the result.
+
+Create a string variable and print it multiple times using the * operator.
+
+✂️ Section 2: String Indexing and Slicing
+Print the first character of a string.
+
+Print the last character of a string using negative indexing.
+
+Slice and print the first 3 characters of a string.
+
+Print a substring that excludes the first and last characters.
+
+Reverse a string using slicing.
+
+🔠 Section 3: String Methods
+Use .strip() to remove extra spaces from both ends of a string.
+
+Convert a string to all lowercase and all uppercase.
+
+Replace a word in a sentence with another word.
+
+Count how many times a specific character appears in a string.
+
+Check if a word is present in a string using the in keyword.
+
+Use .find() to get the position of a substring.
+
+Use .title() to capitalize the first letter of every word.
+
+🧩 Section 4: User Input and Practice
+Ask the user for their name and greet them with "Hello <name>!".
+
+Ask the user to enter a sentence and print:
+
+Its length
+
+The sentence in uppercase
+
+The first 5 characters
+
+Ask the user to enter a word and print it in reverse.
+
+Create a program that takes a string and prints it with all vowels removed.
